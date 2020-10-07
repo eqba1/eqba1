@@ -17,4 +17,17 @@
 > 📜 (none) Public Repositories
  > 
 > 🔑 0 Private Repository 
- > 
+ >
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Python                   12 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.88% 
+Bash                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.33%
+
+🔥 Editors: 
+VS Code                  14 hrs 15 mins      █████████████░░░░░░░░░░░░   53.9% 
+
+```
