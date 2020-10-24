@@ -1,8 +1,8 @@
 # [7] About eqba1
 
-- 🧑🏻‍💻 Software engineer Student at University of Kurdistan.
+- 🧑🏻‍💻 Software engineer Student at the University of Kurdistan.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eghbal-amininejad-3a29211a5/) | [Telegram](https://t.me/eqba1) | [Portfolio](https://eqba1.github.io/).
-- 💵 Hire [me](mailto:comtech9064@gmail.com).
+- 💵 Hire [me](mailto:amininejade@gmail.com).
 
 <details><summary>Dev Metrics 💅</summary>
 
