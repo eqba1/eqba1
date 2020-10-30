@@ -8,13 +8,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 (none) Contributions in the Year 2020
+> 🏆 114 Contributions in the Year 2020
  > 
-> 📦 (none) kB Used in Github's Storage 
+> 📦 83741 kB Used in Github's Storage 
  > 
 > 💼 Linux researcher
  > 
-> 📜 (none) Public Repositories
+> 📜 10 Public Repositories
  > 
 > 🔑 0 Private Repository 
 >
@@ -30,5 +30,6 @@ Bash                     1 hr 40 mins        █░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  14 hrs 15 mins      █████████████░░░░░░░░░░░░   53.9% 
+VM                       3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   12.4%
 
 ```
