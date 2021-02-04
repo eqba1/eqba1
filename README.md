@@ -5,6 +5,7 @@
 - 💵 Hire [me](mailto:amininejade@gmail.com).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eqba1" alt="eqbal"/> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eqba1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details><summary>Dev Metrics 💅</summary>
 
@@ -35,4 +36,4 @@ VS Code                  1 hrs 15 mins       █░░░░░░░░░░�
 VM                       1 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eqba1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
