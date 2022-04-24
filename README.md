@@ -2,7 +2,6 @@
 
 - 🧑🏻‍💻 Software engineer graduate from the University of Kurdistan.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eqbalamini/) | [Telegram](https://t.me/amininejade) | [Portfolio](http://eqba1.github.io).
-- 💵 Hire [me](mailto:amininejade@gmail.com).
 
 <a href='https://www.hackerrank.com/eqba1'>![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <a href='https://www.leetcode.com/eqba1'>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
